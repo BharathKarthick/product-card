@@ -114,20 +114,5 @@ button.cart:hover{
         h2, h1.hh, p.detail, .price{
             padding-bottom: 16px;
         }
-        h1.hh{
-            font-size: 28px;
-        }
-        p.detail{
-            font-size: 12px;
-        }
-        p.np{
-            font-size: 23px;
-        }
-        button.cart{
-            padding:12px 0;
-            font-size: 23px;
-        }
-      
-
-    
+       
 }
