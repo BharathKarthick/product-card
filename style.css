@@ -100,7 +100,7 @@ button.cart:hover{
             padding: 0 15px;
         }
         .grid{
-            grid-template-columns: 1fr;
+            grid-template-row: 1fr;
         }
         .card img{
             max-height: 290px;
