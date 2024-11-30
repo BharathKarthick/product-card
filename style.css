@@ -101,7 +101,8 @@ button.cart:hover{
         }
         .grid{
             grid-template-columns: 1fr;
-            width: 330px
+            width: 330px;
+            height: 330px;
             
         }
         .card img{
