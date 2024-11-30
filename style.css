@@ -5,7 +5,6 @@
     @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,700&family=Montserrat:ital,opsz,wght@500;700&display=swap');
 }
 body{
-    font-family: "Montserrat", sans-serif;
     background-color:  hsl(30, 38%, 92%);
     font-size: 14px;
     min-height: 100vh;
@@ -35,23 +34,26 @@ body{
     justify-content: space-around;
 }
 h2{
+    font-family:"Montserrat";
+    font-optical-sizing: auto;
+    font-style: normal;
     font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 3px;
     font-weight: 500;
     color: hsl(228, 12%, 48%);
-    font-family: "Montserrat", sans-serif;
-    
 }
 .hh{
     color: hsl(212, 21%, 14%);
     font-weight: 700;
-    font-family: "Fraunces", serif;
+    font-family: "Fraunces";
     font-size: 34px;
     line-height: 1em;
 }
 .detail{
-    font-family: "Fraunces", serif;
+     font-family:"Montserrat";
+    font-optical-sizing: auto;
+    font-style: "normal";
     font-weight: 500;
     font-size: 18px;
     color: hsl(228, 12%, 48%);
@@ -64,14 +66,16 @@ h2{
     align-items: center;
 }
 p.np{
-    font-family: "Fraunces", serif;
+     font-family:"Montserrat";
+    font-optical-sizing: auto;
+    font-style: "normal";
     font-size: 25px;
-    
     color: hsl(158, 36%, 37%);
-    font-weight: 900;
-    
+    font-weight: 700;   
 }
 p.op{
+    font-family:"Montserrat";
+    font-optical-sizing: auto;
     font-size: 14px;
     text-decoration: line-through;
     color: hsl(228, 12%, 48%);
